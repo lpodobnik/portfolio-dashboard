@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T06:31:44Z",
+  "updated": "2026-10-12T06:46:24Z",
   "prices": {
     "AGNC": {
       "price": 8.67,
@@ -177,7 +177,7 @@
       "name": "Gold Dec 26"
     },
     "XAG": {
-      "price": 61.09,
+      "price": 61.105,
       "currency": "USD",
       "name": "Silver Dec 26"
     },
@@ -1055,7 +1055,7 @@
       },
       {
         "date": "2026-04-16",
-        "amount": 15.0836
+        "amount": 15.0894
       }
     ],
     "IES": [
