@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T20:16:41Z",
+  "updated": "2026-10-13T20:31:51Z",
   "prices": {
     "AGNC": {
       "price": 8.61,
@@ -77,7 +77,7 @@
       "name": "NuScale Power Corporation"
     },
     "BRK.B": {
-      "price": 520.74,
+      "price": 520.59,
       "currency": "USD",
       "name": "Berkshire Hathaway Inc. New"
     },
@@ -172,12 +172,12 @@
       "name": "AVICANNA INC"
     },
     "XAU": {
-      "price": 4186.4,
+      "price": 4181.9,
       "currency": "USD",
       "name": "Gold Dec 26"
     },
     "XAG": {
-      "price": 59.455,
+      "price": 59.38,
       "currency": "USD",
       "name": "Silver Dec 26"
     },
@@ -1055,7 +1055,7 @@
       },
       {
         "date": "2026-04-16",
-        "amount": 15.088
+        "amount": 15.0878
       }
     ],
     "IES": [
