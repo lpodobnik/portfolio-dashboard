@@ -1,38 +1,38 @@
 {
-  "updated": "2026-10-14T19:02:05Z",
+  "updated": "2026-10-14T19:16:41Z",
   "prices": {
     "AGNC": {
-      "price": 8.585,
+      "price": 8.59,
       "currency": "USD",
       "name": "AGNC Investment Corp."
     },
     "O": {
-      "price": 55.36,
+      "price": 55.29,
       "currency": "USD",
       "name": "Realty Income Corporation"
     },
     "AMZN": {
-      "price": 252.84,
+      "price": 253.13,
       "currency": "USD",
       "name": "Amazon.com, Inc."
     },
     "MSFT": {
-      "price": 532.9,
+      "price": 532.93,
       "currency": "USD",
       "name": "Microsoft Corporation"
     },
     "NVDA": {
-      "price": 220.12,
+      "price": 220.27,
       "currency": "USD",
       "name": "NVIDIA Corporation"
     },
     "CRSP": {
-      "price": 50.13,
+      "price": 50.23,
       "currency": "USD",
       "name": "CRISPR Therapeutics AG"
     },
     "IONQ": {
-      "price": 31.08,
+      "price": 31.075,
       "currency": "USD",
       "name": "IonQ, Inc."
     },
@@ -42,42 +42,42 @@
       "name": "Lexeo Therapeutics, Inc."
     },
     "QUBT": {
-      "price": 6.375,
+      "price": 6.385,
       "currency": "USD",
       "name": "Quantum Computing Inc."
     },
     "NBIS": {
-      "price": 183.8,
+      "price": 183.53,
       "currency": "USD",
       "name": "Nebius Group N.V."
     },
     "LCTX": {
-      "price": 0.9058,
+      "price": 0.9016,
       "currency": "USD",
       "name": "Lineage Cell Therapeutics, Inc."
     },
     "DOCN": {
-      "price": 109.99,
+      "price": 109.92,
       "currency": "USD",
       "name": "DigitalOcean Holdings, Inc."
     },
     "D": {
-      "price": 62.74,
+      "price": 62.655,
       "currency": "USD",
       "name": "Dominion Energy, Inc."
     },
     "QS": {
-      "price": 3.857,
+      "price": 3.865,
       "currency": "USD",
       "name": "QuantumScape Corporation"
     },
     "SMR": {
-      "price": 5.755,
+      "price": 5.73,
       "currency": "USD",
       "name": "NuScale Power Corporation"
     },
     "BRK.B": {
-      "price": 526.085,
+      "price": 525.69,
       "currency": "USD",
       "name": "Berkshire Hathaway Inc. New"
     },
@@ -167,17 +167,17 @@
       "name": "DIAGEO PLC ORD 28 101/108P"
     },
     "AVCN": {
-      "price": 0.105,
+      "price": 0.1,
       "currency": "CAD",
       "name": "AVICANNA INC"
     },
     "XAU": {
-      "price": 4116.4,
+      "price": 4115.2,
       "currency": "USD",
       "name": "Gold Dec 26"
     },
     "XAG": {
-      "price": 55.815,
+      "price": 55.58,
       "currency": "USD",
       "name": "Silver Dec 26"
     },
@@ -1055,7 +1055,7 @@
       },
       {
         "date": "2026-04-16",
-        "amount": 15.170401
+        "amount": 15.164599
       }
     ],
     "IES": [
