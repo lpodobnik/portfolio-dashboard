@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T21:02:04Z",
+  "updated": "2026-10-16T21:16:25Z",
   "prices": {
     "AGNC": {
       "price": 8.72,
@@ -177,7 +177,7 @@
       "name": "Gold Dec 26"
     },
     "XAG": {
-      "price": 57.105,
+      "price": 57.135,
       "currency": "USD",
       "name": "Silver Dec 26"
     },
