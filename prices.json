@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T21:46:22Z",
+  "updated": "2026-10-19T02:02:18Z",
   "prices": {
     "AGNC": {
       "price": 8.72,
@@ -172,12 +172,12 @@
       "name": "AVICANNA INC"
     },
     "XAU": {
-      "price": 4181.1,
+      "price": 4192.2,
       "currency": "USD",
       "name": "Gold Dec 26"
     },
     "XAG": {
-      "price": 57.305,
+      "price": 57.495,
       "currency": "USD",
       "name": "Silver Dec 26"
     },
@@ -242,13 +242,6 @@
       "dividendRate": 4.0,
       "exDividendDate": "2026-06-25"
     },
-    "JNAF-R-A": {
-      "price": 795.0,
-      "currency": "EUR",
-      "name": "JNAF-R-A",
-      "dividendRate": 20.21,
-      "exDividendDate": "2026-07-31"
-    },
     "ERNT-R-A": {
       "price": 222.0,
       "currency": "EUR",
@@ -286,9 +279,9 @@
     }
   },
   "fx": {
-    "USD": 1.124086,
-    "GBP": 0.843886,
-    "CAD": 1.58992,
+    "USD": 1.122511,
+    "GBP": 0.842224,
+    "CAD": 1.586139,
     "HRK": 7.5345
   },
   "div_history": {
@@ -1055,11 +1048,11 @@
       },
       {
         "date": "2026-04-16",
-        "amount": 15.0276
+        "amount": 15.0026
       },
       {
         "date": "2026-10-15",
-        "amount": 22.5414
+        "amount": 22.5039
       }
     ],
     "IES": [
@@ -1136,12 +1129,6 @@
         "amount": 4.0
       }
     ],
-    "JNAF-R-A": [
-      {
-        "date": "2026-07-31",
-        "amount": 20.21
-      }
-    ],
     "ERNT-R-A": [
       {
         "date": "2026-06-15",
@@ -1187,5 +1174,5 @@
       "annualRate": 3.64
     }
   },
-  "div_calendar_date": "2026-10-18"
+  "div_calendar_date": "2026-10-19"
 }
