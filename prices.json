@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T20:31:50Z",
+  "updated": "2026-10-20T20:46:39Z",
   "prices": {
     "AGNC": {
       "price": 8.8,
@@ -172,12 +172,12 @@
       "name": "AVICANNA INC"
     },
     "XAU": {
-      "price": 4141.0,
+      "price": 4140.7,
       "currency": "USD",
       "name": "Gold Dec 26"
     },
     "XAG": {
-      "price": 57.995,
+      "price": 58.005,
       "currency": "USD",
       "name": "Silver Dec 26"
     },
@@ -1055,11 +1055,11 @@
       },
       {
         "date": "2026-04-16",
-        "amount": 14.947
+        "amount": 14.9482
       },
       {
         "date": "2026-10-15",
-        "amount": 22.4205
+        "amount": 22.4223
       }
     ],
     "IES": [
