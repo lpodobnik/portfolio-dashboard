@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T20:01:54Z",
+  "updated": "2026-10-22T20:16:38Z",
   "prices": {
     "AGNC": {
       "price": 8.89,
@@ -7,7 +7,7 @@
       "name": "AGNC Investment Corp."
     },
     "O": {
-      "price": 57.04,
+      "price": 57.06,
       "currency": "USD",
       "name": "Realty Income Corporation"
     },
@@ -17,7 +17,7 @@
       "name": "Amazon.com, Inc."
     },
     "MSFT": {
-      "price": 521.58,
+      "price": 521.08,
       "currency": "USD",
       "name": "Microsoft Corporation"
     },
@@ -32,7 +32,7 @@
       "name": "CRISPR Therapeutics AG"
     },
     "IONQ": {
-      "price": 31.105,
+      "price": 31.16,
       "currency": "USD",
       "name": "IonQ, Inc."
     },
@@ -42,27 +42,27 @@
       "name": "Lexeo Therapeutics, Inc."
     },
     "QUBT": {
-      "price": 6.595,
+      "price": 6.59,
       "currency": "USD",
       "name": "Quantum Computing Inc."
     },
     "NBIS": {
-      "price": 159.13,
+      "price": 159.17,
       "currency": "USD",
       "name": "Nebius Group N.V."
     },
     "LCTX": {
-      "price": 0.9825,
+      "price": 0.985,
       "currency": "USD",
       "name": "Lineage Cell Therapeutics, Inc."
     },
     "DOCN": {
-      "price": 91.83,
+      "price": 92.0,
       "currency": "USD",
       "name": "DigitalOcean Holdings, Inc."
     },
     "D": {
-      "price": 65.43,
+      "price": 65.4,
       "currency": "USD",
       "name": "Dominion Energy, Inc."
     },
@@ -72,12 +72,12 @@
       "name": "QuantumScape Corporation"
     },
     "SMR": {
-      "price": 5.365,
+      "price": 5.38,
       "currency": "USD",
       "name": "NuScale Power Corporation"
     },
     "BRK.B": {
-      "price": 547.25,
+      "price": 547.07,
       "currency": "USD",
       "name": "Berkshire Hathaway Inc. New"
     },
@@ -172,12 +172,12 @@
       "name": "AVICANNA INC"
     },
     "XAU": {
-      "price": 4043.5,
+      "price": 4042.7,
       "currency": "USD",
       "name": "Gold Dec 26"
     },
     "XAG": {
-      "price": 54.75,
+      "price": 54.7,
       "currency": "USD",
       "name": "Silver Dec 26"
     },
@@ -1055,11 +1055,11 @@
       },
       {
         "date": "2026-04-16",
-        "amount": 14.9254
+        "amount": 14.931999
       },
       {
         "date": "2026-10-15",
-        "amount": 22.388102
+        "amount": 22.398
       }
     ],
     "IES": [
