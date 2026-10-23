@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T08:16:26Z",
+  "updated": "2026-10-23T08:31:53Z",
   "prices": {
     "AGNC": {
       "price": 8.89,
@@ -92,22 +92,22 @@
       "name": "NervGen Pharma Corp."
     },
     "VUSA": {
-      "price": 108.565,
+      "price": 108.635,
       "currency": "GBP",
       "name": "VANGUARD FUNDS PLC VANGUARD S&P"
     },
     "VWCE": {
-      "price": 169.2,
+      "price": 169.38,
       "currency": "EUR",
       "name": "Vanguard FTSE All-World U.ETF R"
     },
     "VUAA": {
-      "price": 148.28,
+      "price": 148.46,
       "currency": "USD",
       "name": "VANGUARD FUNDS PLC VANGUARD S&P"
     },
     "EXIO": {
-      "price": 8.152,
+      "price": 8.17,
       "currency": "EUR",
       "name": "iShares EURO STOXX Select Divid"
     },
@@ -117,52 +117,52 @@
       "name": "iShsV-EM Dividend UCITS ETF   R"
     },
     "FUSA": {
-      "price": 15.086,
+      "price": 15.088,
       "currency": "EUR",
       "name": "Fidelity US Quality Income ETFR"
     },
     "DG": {
-      "price": 104.85,
+      "price": 105.3,
       "currency": "EUR",
       "name": "VINCI"
     },
     "ACS": {
-      "price": 86.95,
+      "price": 87.15,
       "currency": "EUR",
       "name": "ACS,ACTIVIDADES DE CONSTRUCCION"
     },
     "FORTUM": {
-      "price": 23.0,
+      "price": 23.07,
       "currency": "EUR",
       "name": "Fortum Corporation"
     },
     "OVH": {
-      "price": 12.8,
+      "price": 12.66,
       "currency": "EUR",
       "name": "OVH"
     },
     "AV": {
-      "price": 708.4,
+      "price": 709.2,
       "currency": "GBp",
       "name": "AVIVA PLC ORD 32 17/19P"
     },
     "BATS": {
-      "price": 4458.0,
+      "price": 4451.0,
       "currency": "GBp",
       "name": "BRITISH AMERICAN TOBACCO PLC OR"
     },
     "LGEN": {
-      "price": 297.1,
+      "price": 296.7,
       "currency": "GBp",
       "name": "LEGAL & GENERAL GROUP PLC ORD 2"
     },
     "TW.": {
-      "price": 81.42,
+      "price": 81.524,
       "currency": "GBp",
       "name": "TAYLOR WIMPEY PLC ORD 1P"
     },
     "DGE": {
-      "price": 1793.0,
+      "price": 1789.0,
       "currency": "GBp",
       "name": "DIAGEO PLC ORD 28 101/108P"
     },
@@ -172,17 +172,17 @@
       "name": "AVICANNA INC"
     },
     "XAU": {
-      "price": 4024.9,
+      "price": 4028.9,
       "currency": "USD",
       "name": "Gold Dec 26"
     },
     "XAG": {
-      "price": 53.88,
+      "price": 53.955,
       "currency": "USD",
       "name": "Silver Dec 26"
     },
     "IES": {
-      "price": 5.797,
+      "price": 5.801,
       "currency": "EUR",
       "name": "INTESA SANPAOLO"
     },
@@ -1055,11 +1055,11 @@
       },
       {
         "date": "2026-04-16",
-        "amount": 14.945801
+        "amount": 14.938801
       },
       {
         "date": "2026-10-15",
-        "amount": 22.418701
+        "amount": 22.408201
       }
     ],
     "IES": [
