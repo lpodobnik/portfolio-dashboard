@@ -1,0 +1,480 @@
+{
+  "holdings": [
+    {
+      "ticker": "IES",
+      "name": "Intesa SanPaolo",
+      "broker": "revolut",
+      "shares": 559.67,
+      "avgCost": 4.64559472546322,
+      "invested": 2600
+    },
+    {
+      "ticker": "ACS",
+      "name": "Act de Consrt",
+      "broker": "revolut",
+      "shares": 12.06,
+      "avgCost": 49.91708126036484,
+      "invested": 602
+    },
+    {
+      "ticker": "VWCE",
+      "name": "VANGUARD FTSE",
+      "broker": "revolut",
+      "shares": 7.85,
+      "avgCost": 127.38853503184714,
+      "invested": 1000
+    },
+    {
+      "ticker": "AGNC",
+      "name": "AGNC",
+      "broker": "revolut",
+      "shares": 130.28,
+      "avgCost": 8.359604256880194,
+      "invested": 1089.0892425863517
+    },
+    {
+      "ticker": "VUAA",
+      "name": "Vanguard s&p 500 Acc",
+      "broker": "revolut",
+      "shares": 10.4,
+      "avgCost": 96.15384615384615,
+      "invested": 1000
+    },
+    {
+      "ticker": "VUSA",
+      "name": "S&P 500 dist",
+      "broker": "revolut",
+      "shares": 10.76,
+      "avgCost": 93.12267657992565,
+      "invested": 1002
+    },
+    {
+      "ticker": "O",
+      "name": "Realty income",
+      "broker": "revolut",
+      "shares": 19.37,
+      "avgCost": 52.177326645334766,
+      "invested": 1010.6748171201344
+    },
+    {
+      "ticker": "BRK.B",
+      "name": "Berkshire Hathaway",
+      "broker": "revolut",
+      "shares": 7.44,
+      "avgCost": 381.9482816298404,
+      "invested": 2841.6952153260127
+    },
+    {
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "broker": "revolut",
+      "shares": 4.51,
+      "avgCost": 103.54799716652498,
+      "invested": 467.0014672210276
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "broker": "revolut",
+      "shares": 3.78,
+      "avgCost": 150.5132858008228,
+      "invested": 568.9402203271102
+    },
+    {
+      "ticker": "IONQ",
+      "name": "IonQ",
+      "broker": "revolut",
+      "shares": 18.96,
+      "avgCost": 14.934768094538578,
+      "invested": 283.16320307245144
+    },
+    {
+      "ticker": "CRSP",
+      "name": "CRISPR",
+      "broker": "revolut",
+      "shares": 10.23,
+      "avgCost": 36.62235576243451,
+      "invested": 374.646699449705
+    },
+    {
+      "ticker": "LXEO",
+      "name": "Lexeo Therapeutics",
+      "broker": "revolut",
+      "shares": 26.31,
+      "avgCost": 3.3115598406274476,
+      "invested": 87.12713940690814
+    },
+    {
+      "ticker": "DG",
+      "name": "Vinci.SA",
+      "broker": "revolut",
+      "shares": 9.21,
+      "avgCost": 110.85776330076003,
+      "invested": 1021
+    },
+    {
+      "ticker": "EXIO",
+      "name": "EURO STOXX",
+      "broker": "revolut",
+      "shares": 143.8,
+      "avgCost": 6.954102920723226,
+      "invested": 1000
+    },
+    {
+      "ticker": "XAG",
+      "name": "Silver",
+      "broker": "revolut",
+      "shares": 23.59,
+      "avgCost": 42.3908435777872,
+      "invested": 1000
+    },
+    {
+      "ticker": "XAU",
+      "name": "Gold",
+      "broker": "revolut",
+      "shares": 0.34,
+      "avgCost": 2941.176470588235,
+      "invested": 1000
+    },
+    {
+      "ticker": "QUBT",
+      "name": "Quantum inc",
+      "broker": "ibkr",
+      "shares": 163,
+      "avgCost": 0.590914433216791,
+      "invested": 96.31905261433694
+    },
+    {
+      "ticker": "NBIS",
+      "name": "Nebius Group",
+      "broker": "ibkr",
+      "shares": 10,
+      "avgCost": 28.198698669045815,
+      "invested": 281.98698669045814
+    },
+    {
+      "ticker": "FORTUM",
+      "name": "Fortum",
+      "broker": "ibkr",
+      "shares": 69,
+      "avgCost": 14.27536231884058,
+      "invested": 985
+    },
+    {
+      "ticker": "LCTX",
+      "name": "Lienage cell",
+      "broker": "ibkr",
+      "shares": 500,
+      "avgCost": 0.47048655279730395,
+      "invested": 235.24327639865197
+    },
+    {
+      "ticker": "DOCS",
+      "name": "Digital Ocean",
+      "broker": "ibkr",
+      "shares": 5,
+      "avgCost": 34.50234720513562,
+      "invested": 172.51173602567812
+    },
+    {
+      "ticker": "EUNY",
+      "name": "IShares Dividend ETF",
+      "broker": "ibkr",
+      "shares": 75,
+      "avgCost": 14.4,
+      "invested": 1080
+    },
+    {
+      "ticker": "FUSA",
+      "name": "ETF Acc",
+      "broker": "ibkr",
+      "shares": 80,
+      "avgCost": 11.130492059232514,
+      "invested": 890.4393647386012
+    },
+    {
+      "ticker": "D",
+      "name": "Dominion energy",
+      "broker": "ibkr",
+      "shares": 4,
+      "avgCost": 46.395201734178585,
+      "invested": 185.58080693671434
+    },
+    {
+      "ticker": "QS",
+      "name": "Quantumscape",
+      "broker": "ibkr",
+      "shares": 40,
+      "avgCost": 5.358319073524851,
+      "invested": 214.33276294099403
+    },
+    {
+      "ticker": "OVH",
+      "name": "OVH Groupe SA",
+      "broker": "ibkr",
+      "shares": 40,
+      "avgCost": 8.525,
+      "invested": 341
+    },
+    {
+      "ticker": "PINN",
+      "name": "Pinnacle",
+      "broker": "ibkr",
+      "shares": 68285,
+      "avgCost": 0.08898520495657537,
+      "invested": 6076.354720459749
+    },
+    {
+      "ticker": "AVCN",
+      "name": "Avicanna",
+      "broker": "ibkr",
+      "shares": 32272,
+      "avgCost": 0.12710413012513747,
+      "invested": 4101.904487398437
+    },
+    {
+      "ticker": "HT-RA",
+      "name": "HT",
+      "broker": "zse",
+      "shares": 42,
+      "avgCost": 35.714285714285715,
+      "invested": 1500
+    },
+    {
+      "ticker": "IG-R-A",
+      "name": "Ing Grad",
+      "broker": "zse",
+      "shares": 43,
+      "avgCost": 46.51162790697674,
+      "invested": 2000
+    },
+    {
+      "ticker": "TOK-R-A",
+      "name": "Tokic",
+      "broker": "zse",
+      "shares": 64,
+      "avgCost": 20.3125,
+      "invested": 1300
+    },
+    {
+      "ticker": "BATS",
+      "name": "British American Tobacco",
+      "broker": "ibkr",
+      "shares": 19,
+      "avgCost": 51.28441887992636,
+      "invested": 974.4039587186008
+    },
+    {
+      "ticker": "LGEN",
+      "name": "Legal & General Group",
+      "broker": "ibkr",
+      "shares": 705,
+      "avgCost": 2.9366228367911202,
+      "invested": 2070.31909993774
+    },
+    {
+      "ticker": "TW.",
+      "name": "Taylor Wimpey",
+      "broker": "ibkr",
+      "shares": 1750,
+      "avgCost": 1.137410796739731,
+      "invested": 1990.468894294529
+    },
+    {
+      "ticker": "DGE",
+      "name": "Diageo",
+      "broker": "ibkr",
+      "shares": 160,
+      "avgCost": 18.508756905885537,
+      "invested": 2961.401104941686
+    }
+  ],
+  "dividends": [],
+  "prices": {
+    "IES": {
+      "price": 5.078,
+      "currency": "EUR",
+      "name": "INTESA SANPAOLO"
+    },
+    "AGNC": {
+      "price": 10.315,
+      "currency": "USD",
+      "name": "AGNC Investment Corp."
+    },
+    "O": {
+      "price": 62.605,
+      "currency": "USD",
+      "name": "Realty Income Corporation"
+    },
+    "AMZN": {
+      "price": 208.795,
+      "currency": "USD",
+      "name": "Amazon.com, Inc."
+    },
+    "NVDA": {
+      "price": 178.76,
+      "currency": "USD",
+      "name": "NVIDIA Corporation"
+    },
+    "CRSP": {
+      "price": 46.88,
+      "currency": "USD",
+      "name": "CRISPR Therapeutics AG"
+    },
+    "IONQ": {
+      "price": 31.88,
+      "currency": "USD",
+      "name": "IonQ, Inc."
+    },
+    "LXEO": {
+      "price": 5.76,
+      "currency": "USD",
+      "name": "Lexeo Therapeutics, Inc."
+    },
+    "BRK.B": {
+      "price": 481.08,
+      "currency": "USD",
+      "name": "Berkshire Hathaway Inc. New"
+    },
+    "VUSA": {
+      "price": 93.338,
+      "currency": "GBP",
+      "name": "VANGUARD FUNDS PLC VANGUARD S&P"
+    },
+    "VWCE": {
+      "price": 144.28,
+      "currency": "EUR",
+      "name": "Vanguard FTSE All-World U.ETF R"
+    },
+    "VUAA": {
+      "price": 126.8,
+      "currency": "USD",
+      "name": "VANGUARD FUNDS PLC VANGUARD S&P"
+    },
+    "ACS": {
+      "price": 105.1,
+      "currency": "EUR",
+      "name": "ACS,ACTIVIDADES DE CONSTRUCCION"
+    },
+    "EXSG": {
+      "price": 20.84,
+      "currency": "EUR",
+      "name": "iSh.EO ST.Sel.Div.30 U.ETF DE I"
+    },
+    "DG": {
+      "price": 126.15,
+      "currency": "EUR",
+      "name": "VINCI"
+    },
+    "XAU": {
+      "price": 4639.9,
+      "currency": "USD",
+      "name": "Gold Apr 26"
+    },
+    "XAG": {
+      "price": 72.27,
+      "currency": "USD",
+      "name": "Silver May 26"
+    },
+    "EXIO": {
+      "price": 7.0896,
+      "currency": "EUR",
+      "name": "iShares EURO STOXX Select Divid"
+    },
+    "QUBT": {
+      "price": 7.205,
+      "currency": "USD",
+      "name": "Quantum Computing Inc."
+    },
+    "NBIS": {
+      "price": 121.58,
+      "currency": "USD",
+      "name": "Nebius Group N.V."
+    },
+    "LCTX": {
+      "price": 1.535,
+      "currency": "USD",
+      "name": "Lineage Cell Therapeutics, Inc."
+    },
+    "DOCS": {
+      "price": 24.825,
+      "currency": "USD",
+      "name": "Doximity, Inc."
+    },
+    "D": {
+      "price": 61.03,
+      "currency": "USD",
+      "name": "Dominion Energy, Inc."
+    },
+    "QS": {
+      "price": 6.875,
+      "currency": "USD",
+      "name": "QuantumScape Corporation"
+    },
+    "FUSA": {
+      "price": 12.626,
+      "currency": "EUR",
+      "name": "Fidelity US Quality Income ETFR"
+    },
+    "FORTUM": {
+      "price": 22.05,
+      "currency": "EUR",
+      "name": "Fortum Corporation"
+    },
+    "OVH": {
+      "price": 8.805,
+      "currency": "EUR",
+      "name": "OVH"
+    },
+    "AVCN": {
+      "price": 0.165,
+      "currency": "CAD",
+      "name": "AVICANNA INC"
+    },
+    "EUNY": {
+      "price": 16.54,
+      "currency": "EUR",
+      "name": "iShsV-EM Dividend UCITS ETF   R"
+    },
+    "BATS": {
+      "price": 4355,
+      "currency": "GBp",
+      "name": "BRITISH AMERICAN TOBACCO PLC OR"
+    },
+    "LGEN": {
+      "price": 241.3,
+      "currency": "GBp",
+      "name": "LEGAL & GENERAL GROUP PLC ORD 2"
+    },
+    "TW.": {
+      "price": 89.68,
+      "currency": "GBp",
+      "name": "TAYLOR WIMPEY PLC ORD 1P"
+    },
+    "DGE": {
+      "price": 1402,
+      "currency": "GBp",
+      "name": "DIAGEO PLC ORD 28 101/108P"
+    },
+    "PINN": {
+      "price": 0.12,
+      "currency": "CAD",
+      "name": "PINNACLE SILVER AND GOLD CORP"
+    },
+    "HT-RA": {
+      "price": 39.4,
+      "currency": "EUR",
+      "name": "HT-RA"
+    },
+    "IG-R-A": {
+      "price": 56.2,
+      "currency": "EUR",
+      "name": "IG-R-A"
+    },
+    "TOK-R-A": {
+      "price": 17.9,
+      "currency": "EUR",
+      "name": "TOK-R-A"
+    }
+  }
+}
