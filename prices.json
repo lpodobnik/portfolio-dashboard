@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T04:17:17Z",
+  "updated": "2026-10-31T04:32:39Z",
   "prices": {
     "AGNC": {
       "price": 8.65,
@@ -186,20 +186,6 @@
       "currency": "EUR",
       "name": "INTESA SANPAOLO"
     },
-    "HT-RA": {
-      "price": 38.7,
-      "currency": "EUR",
-      "name": "HT-RA",
-      "dividendRate": 1.69,
-      "exDividendDate": "2026-06-03"
-    },
-    "HT-R-A": {
-      "price": 38.7,
-      "currency": "EUR",
-      "name": "HT-R-A",
-      "dividendRate": 1.69,
-      "exDividendDate": "2026-06-03"
-    },
     "IG-R-A": {
       "price": 65.8,
       "currency": "EUR",
@@ -269,13 +255,6 @@
       "name": "ADPL-R-A",
       "dividendRate": 0.8,
       "exDividendDate": "2026-07-22"
-    },
-    "PODR-R-A": {
-      "price": 149.5,
-      "currency": "EUR",
-      "name": "PODR-R-A",
-      "dividendRate": 3.2,
-      "exDividendDate": "2026-06-29"
     },
     "ZABA-R-A": {
       "price": 23.4,
@@ -1096,18 +1075,6 @@
         "amount": 0.19
       }
     ],
-    "HT-RA": [
-      {
-        "date": "2026-06-03",
-        "amount": 1.69
-      }
-    ],
-    "HT-R-A": [
-      {
-        "date": "2026-06-03",
-        "amount": 1.69
-      }
-    ],
     "IG-R-A": [
       {
         "date": "2026-07-22",
@@ -1166,12 +1133,6 @@
       {
         "date": "2026-07-22",
         "amount": 0.8
-      }
-    ],
-    "PODR-R-A": [
-      {
-        "date": "2026-06-29",
-        "amount": 3.2
       }
     ],
     "ZABA-R-A": [
