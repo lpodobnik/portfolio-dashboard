@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T04:01:59Z",
+  "updated": "2026-11-01T04:16:57Z",
   "prices": {
     "AGNC": {
       "price": 8.65,
@@ -185,13 +185,6 @@
       "price": 5.889,
       "currency": "EUR",
       "name": "INTESA SANPAOLO"
-    },
-    "HT-RA": {
-      "price": 38.7,
-      "currency": "EUR",
-      "name": "HT-RA",
-      "dividendRate": 1.69,
-      "exDividendDate": "2026-06-03"
     },
     "HT-R-A": {
       "price": 38.7,
@@ -1094,12 +1087,6 @@
       {
         "date": "2026-05-18",
         "amount": 0.19
-      }
-    ],
-    "HT-RA": [
-      {
-        "date": "2026-06-03",
-        "amount": 1.69
       }
     ],
     "HT-R-A": [
