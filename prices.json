@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T21:02:23Z",
+  "updated": "2026-11-02T21:16:42Z",
   "prices": {
     "AGNC": {
       "price": 8.69,
@@ -7,12 +7,12 @@
       "name": "AGNC Investment Corp."
     },
     "O": {
-      "price": 57.564,
+      "price": 57.58,
       "currency": "USD",
       "name": "Realty Income Corporation"
     },
     "AMZN": {
-      "price": 245.81,
+      "price": 245.63,
       "currency": "USD",
       "name": "Amazon.com, Inc."
     },
@@ -32,7 +32,7 @@
       "name": "CRISPR Therapeutics AG"
     },
     "IONQ": {
-      "price": 28.141,
+      "price": 28.17,
       "currency": "USD",
       "name": "IonQ, Inc."
     },
@@ -52,17 +52,17 @@
       "name": "Nebius Group N.V."
     },
     "LCTX": {
-      "price": 1.015,
+      "price": 1.01,
       "currency": "USD",
       "name": "Lineage Cell Therapeutics, Inc."
     },
     "DOCN": {
-      "price": 88.23,
+      "price": 89.9,
       "currency": "USD",
       "name": "DigitalOcean Holdings, Inc."
     },
     "D": {
-      "price": 67.785,
+      "price": 67.72,
       "currency": "USD",
       "name": "Dominion Energy, Inc."
     },
@@ -72,7 +72,7 @@
       "name": "QuantumScape Corporation"
     },
     "SMR": {
-      "price": 5.335,
+      "price": 5.35,
       "currency": "USD",
       "name": "NuScale Power Corporation"
     },
@@ -82,7 +82,7 @@
       "name": "Alphabet Inc."
     },
     "BRK.B": {
-      "price": 556.25,
+      "price": 556.11,
       "currency": "USD",
       "name": "Berkshire Hathaway Inc. New"
     },
@@ -177,12 +177,12 @@
       "name": "AVICANNA INC"
     },
     "XAU": {
-      "price": 3951.7,
+      "price": 3955.3,
       "currency": "USD",
       "name": "Gold Dec 26"
     },
     "XAG": {
-      "price": 50.5,
+      "price": 50.585,
       "currency": "USD",
       "name": "Silver Dec 26"
     },
@@ -1102,11 +1102,11 @@
       },
       {
         "date": "2026-04-16",
-        "amount": 14.914201
+        "amount": 14.9148
       },
       {
         "date": "2026-10-15",
-        "amount": 22.371302
+        "amount": 22.3722
       }
     ],
     "IES": [
