@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T18:16:50Z",
+  "updated": "2026-11-08T18:32:11Z",
   "prices": {
     "AGNC": {
       "price": 8.78,
@@ -117,7 +117,7 @@
       "name": "VANGUARD FUNDS PLC VANGUARD S&P"
     },
     "EXIO": {
-      "price": 8.475,
+      "price": 8.46,
       "currency": "EUR",
       "name": "iShares EURO STOXX Select Divid"
     },
