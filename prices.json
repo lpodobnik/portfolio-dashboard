@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T22:46:33Z",
+  "updated": "2026-11-09T03:02:31Z",
   "prices": {
     "AGNC": {
       "price": 8.78,
@@ -182,12 +182,12 @@
       "name": "AVICANNA INC"
     },
     "XAU": {
-      "price": 4074.9,
+      "price": 4133.4,
       "currency": "USD",
       "name": "Gold Dec 26"
     },
     "XAG": {
-      "price": 51.942,
+      "price": 53.135,
       "currency": "USD",
       "name": "Silver Dec 26"
     },
@@ -296,9 +296,9 @@
     }
   },
   "fx": {
-    "USD": 1.116337,
-    "GBP": 0.834429,
-    "CAD": 1.572395,
+    "USD": 1.11493,
+    "GBP": 0.834329,
+    "CAD": 1.5735,
     "HRK": 7.5345
   },
   "div_history": {
@@ -1107,11 +1107,11 @@
       },
       {
         "date": "2026-04-16",
-        "amount": 14.9746
+        "amount": 14.9558
       },
       {
         "date": "2026-10-15",
-        "amount": 22.4619
+        "amount": 22.4337
       }
     ],
     "IES": [
@@ -1245,5 +1245,5 @@
       "annualRate": 0.88
     }
   },
-  "div_calendar_date": "2026-11-08"
+  "div_calendar_date": "2026-11-09"
 }
