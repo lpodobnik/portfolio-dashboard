@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T21:02:07Z",
+  "updated": "2026-11-12T21:16:40Z",
   "prices": {
     "AGNC": {
       "price": 8.2,
@@ -7,7 +7,7 @@
       "name": "AGNC Investment Corp."
     },
     "O": {
-      "price": 59.255,
+      "price": 59.26,
       "currency": "USD",
       "name": "Realty Income Corporation"
     },
@@ -32,7 +32,7 @@
       "name": "CRISPR Therapeutics AG"
     },
     "IONQ": {
-      "price": 30.84,
+      "price": 30.86,
       "currency": "USD",
       "name": "IonQ, Inc."
     },
@@ -57,7 +57,7 @@
       "name": "Lineage Cell Therapeutics, Inc."
     },
     "DOCN": {
-      "price": 90.13,
+      "price": 90.07,
       "currency": "USD",
       "name": "DigitalOcean Holdings, Inc."
     },
@@ -72,7 +72,7 @@
       "name": "QuantumScape Corporation"
     },
     "SMR": {
-      "price": 4.81,
+      "price": 4.82,
       "currency": "USD",
       "name": "NuScale Power Corporation"
     },
@@ -87,7 +87,7 @@
       "name": "Rocket Lab Corporation"
     },
     "BRK.B": {
-      "price": 590.1,
+      "price": 589.83,
       "currency": "USD",
       "name": "Berkshire Hathaway Inc. New"
     },
@@ -182,12 +182,12 @@
       "name": "AVICANNA INC"
     },
     "XAU": {
-      "price": 3881.6,
+      "price": 3879.5,
       "currency": "USD",
       "name": "Gold Dec 26"
     },
     "XAG": {
-      "price": 49.955,
+      "price": 49.93,
       "currency": "USD",
       "name": "Silver Dec 26"
     },
@@ -1107,11 +1107,11 @@
       },
       {
         "date": "2026-04-16",
-        "amount": 15.107401
+        "amount": 15.1098
       },
       {
         "date": "2026-10-15",
-        "amount": 22.661102
+        "amount": 22.664701
       }
     ],
     "IES": [
