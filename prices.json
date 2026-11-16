@@ -1,93 +1,93 @@
 {
-  "updated": "2026-11-16T18:32:03Z",
+  "updated": "2026-11-16T18:46:45Z",
   "prices": {
     "AGNC": {
-      "price": 8.115,
+      "price": 8.109,
       "currency": "USD",
       "name": "AGNC Investment Corp."
     },
     "O": {
-      "price": 58.716,
+      "price": 58.625,
       "currency": "USD",
       "name": "Realty Income Corporation"
     },
     "AMZN": {
-      "price": 257.7,
+      "price": 257.83,
       "currency": "USD",
       "name": "Amazon.com, Inc."
     },
     "MSFT": {
-      "price": 520.59,
+      "price": 520.355,
       "currency": "USD",
       "name": "Microsoft Corporation"
     },
     "NVDA": {
-      "price": 155.11,
+      "price": 155.925,
       "currency": "USD",
       "name": "NVIDIA Corporation"
     },
     "CRSP": {
-      "price": 40.92,
+      "price": 40.8,
       "currency": "USD",
       "name": "CRISPR Therapeutics AG"
     },
     "IONQ": {
-      "price": 26.325,
+      "price": 26.365,
       "currency": "USD",
       "name": "IonQ, Inc."
     },
     "LXEO": {
-      "price": 3.075,
+      "price": 3.132,
       "currency": "USD",
       "name": "Lexeo Therapeutics, Inc."
     },
     "QUBT": {
-      "price": 5.206,
+      "price": 5.2,
       "currency": "USD",
       "name": "Quantum Computing Inc."
     },
     "NBIS": {
-      "price": 106.775,
+      "price": 107.12,
       "currency": "USD",
       "name": "Nebius Group N.V."
     },
     "LCTX": {
-      "price": 0.8336,
+      "price": 0.8426,
       "currency": "USD",
       "name": "Lineage Cell Therapeutics, Inc."
     },
     "DOCN": {
-      "price": 79.98,
+      "price": 80.39,
       "currency": "USD",
       "name": "DigitalOcean Holdings, Inc."
     },
     "D": {
-      "price": 67.905,
+      "price": 67.845,
       "currency": "USD",
       "name": "Dominion Energy, Inc."
     },
     "QS": {
-      "price": 3.43,
+      "price": 3.445,
       "currency": "USD",
       "name": "QuantumScape Corporation"
     },
     "SMR": {
-      "price": 4.32,
+      "price": 4.326,
       "currency": "USD",
       "name": "NuScale Power Corporation"
     },
     "GOOG": {
-      "price": 282.74,
+      "price": 282.479,
       "currency": "USD",
       "name": "Alphabet Inc."
     },
     "RKLB": {
-      "price": 57.502,
+      "price": 57.487,
       "currency": "USD",
       "name": "Rocket Lab Corporation"
     },
     "BRK.B": {
-      "price": 591.92,
+      "price": 591.018,
       "currency": "USD",
       "name": "Berkshire Hathaway Inc. New"
     },
@@ -97,7 +97,7 @@
       "name": "PINNACLE SILVER AND GOLD CORP"
     },
     "NGEN": {
-      "price": 1.87,
+      "price": 1.875,
       "currency": "USD",
       "name": "NervGen Pharma Corp."
     },
@@ -182,12 +182,12 @@
       "name": "AVICANNA INC"
     },
     "XAU": {
-      "price": 3848.5,
+      "price": 3850.0,
       "currency": "USD",
       "name": "Gold Dec 26"
     },
     "XAG": {
-      "price": 46.84,
+      "price": 46.69,
       "currency": "USD",
       "name": "Silver Dec 26"
     },
@@ -1099,11 +1099,11 @@
       },
       {
         "date": "2026-04-16",
-        "amount": 15.1702
+        "amount": 15.1751995
       },
       {
         "date": "2026-10-15",
-        "amount": 22.7553
+        "amount": 22.7628
       }
     ],
     "IES": [
