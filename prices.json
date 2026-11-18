@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T21:02:14Z",
+  "updated": "2026-11-18T21:16:40Z",
   "prices": {
     "AGNC": {
       "price": 7.835,
@@ -7,7 +7,7 @@
       "name": "AGNC Investment Corp."
     },
     "O": {
-      "price": 58.27,
+      "price": 58.28,
       "currency": "USD",
       "name": "Realty Income Corporation"
     },
@@ -32,7 +32,7 @@
       "name": "CRISPR Therapeutics AG"
     },
     "IONQ": {
-      "price": 23.47,
+      "price": 23.48,
       "currency": "USD",
       "name": "IonQ, Inc."
     },
@@ -52,17 +52,17 @@
       "name": "Nebius Group N.V."
     },
     "LCTX": {
-      "price": 0.8493,
+      "price": 0.8385,
       "currency": "USD",
       "name": "Lineage Cell Therapeutics, Inc."
     },
     "DOCN": {
-      "price": 80.625,
+      "price": 80.62,
       "currency": "USD",
       "name": "DigitalOcean Holdings, Inc."
     },
     "D": {
-      "price": 67.35,
+      "price": 67.39,
       "currency": "USD",
       "name": "Dominion Energy, Inc."
     },
@@ -72,7 +72,7 @@
       "name": "QuantumScape Corporation"
     },
     "SMR": {
-      "price": 3.905,
+      "price": 3.91,
       "currency": "USD",
       "name": "NuScale Power Corporation"
     },
@@ -87,7 +87,7 @@
       "name": "Rocket Lab Corporation"
     },
     "BRK.B": {
-      "price": 574.27,
+      "price": 574.62,
       "currency": "USD",
       "name": "Berkshire Hathaway Inc. New"
     },
@@ -182,7 +182,7 @@
       "name": "AVICANNA INC"
     },
     "XAU": {
-      "price": 3731.5,
+      "price": 3727.8,
       "currency": "USD",
       "name": "Gold Dec 26"
     },
@@ -1099,11 +1099,11 @@
       },
       {
         "date": "2026-04-16",
-        "amount": 15.208401
+        "amount": 15.2106
       },
       {
         "date": "2026-10-15",
-        "amount": 22.812601
+        "amount": 22.8159
       }
     ],
     "IES": [
