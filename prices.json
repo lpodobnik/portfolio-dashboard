@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T21:02:16Z",
+  "updated": "2026-11-19T21:16:45Z",
   "prices": {
     "AGNC": {
       "price": 7.86,
@@ -7,7 +7,7 @@
       "name": "AGNC Investment Corp."
     },
     "O": {
-      "price": 57.64,
+      "price": 57.66,
       "currency": "USD",
       "name": "Realty Income Corporation"
     },
@@ -32,7 +32,7 @@
       "name": "CRISPR Therapeutics AG"
     },
     "IONQ": {
-      "price": 22.685,
+      "price": 22.71,
       "currency": "USD",
       "name": "IonQ, Inc."
     },
@@ -42,7 +42,7 @@
       "name": "Lexeo Therapeutics, Inc."
     },
     "QUBT": {
-      "price": 4.89,
+      "price": 4.88,
       "currency": "USD",
       "name": "Quantum Computing Inc."
     },
@@ -52,17 +52,17 @@
       "name": "Nebius Group N.V."
     },
     "LCTX": {
-      "price": 0.8334,
+      "price": 0.82,
       "currency": "USD",
       "name": "Lineage Cell Therapeutics, Inc."
     },
     "DOCN": {
-      "price": 77.02,
+      "price": 77.09,
       "currency": "USD",
       "name": "DigitalOcean Holdings, Inc."
     },
     "D": {
-      "price": 66.7,
+      "price": 66.65,
       "currency": "USD",
       "name": "Dominion Energy, Inc."
     },
@@ -72,12 +72,12 @@
       "name": "QuantumScape Corporation"
     },
     "SMR": {
-      "price": 3.817,
+      "price": 3.81,
       "currency": "USD",
       "name": "NuScale Power Corporation"
     },
     "GOOG": {
-      "price": 270.77,
+      "price": 271.02,
       "currency": "USD",
       "name": "Alphabet Inc."
     },
@@ -87,7 +87,7 @@
       "name": "Rocket Lab Corporation"
     },
     "BRK.B": {
-      "price": 572.15,
+      "price": 572.04,
       "currency": "USD",
       "name": "Berkshire Hathaway Inc. New"
     },
@@ -182,12 +182,12 @@
       "name": "AVICANNA INC"
     },
     "XAU": {
-      "price": 3667.3,
+      "price": 3661.6,
       "currency": "USD",
       "name": "Gold Dec 26"
     },
     "XAG": {
-      "price": 43.975,
+      "price": 43.8,
       "currency": "USD",
       "name": "Silver Dec 26"
     },
@@ -1099,11 +1099,11 @@
       },
       {
         "date": "2026-04-16",
-        "amount": 15.268801
+        "amount": 15.272201
       },
       {
         "date": "2026-10-15",
-        "amount": 22.903202
+        "amount": 22.9083
       }
     ],
     "IES": [
