@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T08:02:13Z",
+  "updated": "2026-11-20T08:16:30Z",
   "prices": {
     "AGNC": {
       "price": 7.86,
@@ -132,47 +132,47 @@
       "name": "Fidelity US Quality Income ETFR"
     },
     "DG": {
-      "price": 112.1,
+      "price": 111.75,
       "currency": "EUR",
       "name": "VINCI"
     },
     "ACS": {
-      "price": 86.7,
+      "price": 84.65,
       "currency": "EUR",
       "name": "ACS,ACTIVIDADES DE CONSTRUCCION"
     },
     "FORTUM": {
-      "price": 22.7,
+      "price": 22.72,
       "currency": "EUR",
       "name": "Fortum Corporation"
     },
     "OVH": {
-      "price": 14.26,
+      "price": 13.86,
       "currency": "EUR",
       "name": "OVH"
     },
     "AV": {
-      "price": 738.4,
+      "price": 741.0,
       "currency": "GBp",
       "name": "AVIVA PLC ORD 32 17/19P"
     },
     "BATS": {
-      "price": 4347.0,
+      "price": 4407.0,
       "currency": "GBp",
       "name": "BRITISH AMERICAN TOBACCO PLC OR"
     },
     "LGEN": {
-      "price": 295.2,
+      "price": 294.6,
       "currency": "GBp",
       "name": "LEGAL & GENERAL GROUP PLC ORD 2"
     },
     "TW.": {
-      "price": 75.2,
+      "price": 74.62,
       "currency": "GBp",
       "name": "TAYLOR WIMPEY PLC ORD 1P"
     },
     "DGE": {
-      "price": 1865.0,
+      "price": 1880.0,
       "currency": "GBp",
       "name": "DIAGEO PLC ORD 28 101/108P"
     },
@@ -182,17 +182,17 @@
       "name": "AVICANNA INC"
     },
     "XAU": {
-      "price": 3567.2,
+      "price": 3577.4,
       "currency": "USD",
       "name": "Gold Dec 26"
     },
     "XAG": {
-      "price": 42.16,
+      "price": 42.265,
       "currency": "USD",
       "name": "Silver Dec 26"
     },
     "IES": {
-      "price": 6.047,
+      "price": 5.995,
       "currency": "EUR",
       "name": "INTESA SANPAOLO"
     },
@@ -1103,11 +1103,11 @@
       },
       {
         "date": "2026-04-16",
-        "amount": 15.2536
+        "amount": 15.253201
       },
       {
         "date": "2026-10-15",
-        "amount": 22.880402
+        "amount": 22.8798
       }
     ],
     "IES": [
