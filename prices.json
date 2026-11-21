@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T09:16:30Z",
+  "updated": "2026-11-21T09:31:49Z",
   "prices": {
     "AGNC": {
       "price": 7.73,
@@ -125,11 +125,6 @@
       "price": 15.474,
       "currency": "EUR",
       "name": "iShsV-EM Dividend UCITS ETF   R"
-    },
-    "FUSA": {
-      "price": 14.368,
-      "currency": "EUR",
-      "name": "Fidelity US Quality Income ETFR"
     },
     "DG": {
       "price": 111.0,
