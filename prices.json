@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T18:32:00Z",
+  "updated": "2026-11-22T18:46:38Z",
   "prices": {
     "AGNC": {
       "price": 7.73,
@@ -85,6 +85,11 @@
       "price": 45.42,
       "currency": "USD",
       "name": "Rocket Lab Corporation"
+    },
+    "ANT": {
+      "price": 88.91,
+      "currency": "USD",
+      "name": "Anthropic, PBC"
     },
     "BRK.B": {
       "price": 570.0,
