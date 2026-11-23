@@ -25,6 +25,9 @@ DOCN
 D
 QS
 SMR
+GOOG
+RKLB
+ANT
 # ── US stocks with special Yahoo Finance format ──
 BRK.B=BRK-B
 PINN=PINN.V
