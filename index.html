@@ -840,7 +840,7 @@ async function refreshPrices() {
     btn.disabled = true;
     try {
       const res = await fetch(
-        'https://api.github.com/repos/lpodobnik0/portfolio-dashboard/actions/workflows/fetch-prices.yml/dispatches',
+        `https://api.github.com/repos/${SYNC_REPO}/actions/workflows/fetch-prices.yml/dispatches`,
         { method: 'POST',
           headers: { 'Authorization': `token ${token}`, 'Accept': 'application/vnd.github.v3+json', 'Content-Type': 'application/json' },
           body: JSON.stringify({ ref: 'main' }) }
@@ -1973,7 +1973,7 @@ if (location.protocol === 'file:') {
 // ═══════════════════════════════════════════════
 //  SYNC — AES-GCM encrypted via GitHub Contents API
 // ═══════════════════════════════════════════════
-const SYNC_REPO   = 'lpodobnik0/portfolio-dashboard';
+const SYNC_REPO   = 'lpodobnik/portfolio-dashboard';
 const SYNC_FILE   = 'portfolio.enc';
 const SYNC_API    = `https://api.github.com/repos/${SYNC_REPO}/contents/${SYNC_FILE}`;
 const PBKDF2_ITER = 120000;

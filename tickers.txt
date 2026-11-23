@@ -28,6 +28,8 @@ SMR
 GOOG
 RKLB
 ANT
+IMNN
+GFUZ
 # ── US stocks with special Yahoo Finance format ──
 BRK.B=BRK-B
 PINN=PINN.V
@@ -53,6 +55,7 @@ BATS=BATS.L
 LGEN=LGEN.L
 TW.=TW.L
 DGE=DGE.L
+LLOY=LLOY.L
 
 # ── Canadian stocks ──────────────────────────
 AVCN=AVCN.TO
