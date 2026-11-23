@@ -1,38 +1,38 @@
 {
-  "updated": "2026-11-23T14:51:38Z",
+  "updated": "2026-11-23T14:46:48Z",
   "prices": {
     "AGNC": {
-      "price": 7.825,
+      "price": 7.81,
       "currency": "USD",
       "name": "AGNC Investment Corp."
     },
     "O": {
-      "price": 58.3,
+      "price": 58.33,
       "currency": "USD",
       "name": "Realty Income Corporation"
     },
     "AMZN": {
-      "price": 254.08,
+      "price": 253.22,
       "currency": "USD",
       "name": "Amazon.com, Inc."
     },
     "MSFT": {
-      "price": 503.51,
+      "price": 501.17,
       "currency": "USD",
       "name": "Microsoft Corporation"
     },
     "NVDA": {
-      "price": 164.2,
+      "price": 162.28,
       "currency": "USD",
       "name": "NVIDIA Corporation"
     },
     "CRSP": {
-      "price": 41.6,
+      "price": 41.53,
       "currency": "USD",
       "name": "CRISPR Therapeutics AG"
     },
     "IONQ": {
-      "price": 23.67,
+      "price": 23.975,
       "currency": "USD",
       "name": "IonQ, Inc."
     },
@@ -42,67 +42,57 @@
       "name": "Lexeo Therapeutics, Inc."
     },
     "QUBT": {
-      "price": 4.87,
+      "price": 4.9,
       "currency": "USD",
       "name": "Quantum Computing Inc."
     },
     "NBIS": {
-      "price": 100.245,
+      "price": 100.67,
       "currency": "USD",
       "name": "Nebius Group N.V."
     },
     "LCTX": {
-      "price": 0.8319,
+      "price": 0.8154,
       "currency": "USD",
       "name": "Lineage Cell Therapeutics, Inc."
     },
     "DOCN": {
-      "price": 77.495,
+      "price": 78.2,
       "currency": "USD",
       "name": "DigitalOcean Holdings, Inc."
     },
     "D": {
-      "price": 66.53,
+      "price": 66.59,
       "currency": "USD",
       "name": "Dominion Energy, Inc."
     },
     "QS": {
-      "price": 3.16,
+      "price": 3.18,
       "currency": "USD",
       "name": "QuantumScape Corporation"
     },
     "SMR": {
-      "price": 3.65,
+      "price": 3.685,
       "currency": "USD",
       "name": "NuScale Power Corporation"
     },
     "GOOG": {
-      "price": 275.18,
+      "price": 275.1,
       "currency": "USD",
       "name": "Alphabet Inc."
     },
     "RKLB": {
-      "price": 49.12,
+      "price": 49.535,
       "currency": "USD",
       "name": "Rocket Lab Corporation"
     },
     "ANT": {
-      "price": 88.43,
+      "price": 90.06,
       "currency": "USD",
       "name": "Anthropic, PBC"
     },
-    "IMNN": {
-      "price": 0.5905,
-      "currency": "USD",
-      "name": "Imunon, Inc."
-    },
-    "GFUZ": {
-      "price": 4.35,
-      "currency": "USD",
-      "name": "General Fusion Group Ltd."
-    },
     "BRK.B": {
-      "price": 572.415,
+      "price": 572.85,
       "currency": "USD",
       "name": "Berkshire Hathaway Inc. New"
     },
@@ -112,27 +102,27 @@
       "name": "PINNACLE SILVER AND GOLD CORP"
     },
     "NGEN": {
-      "price": 2.0,
+      "price": 1.98,
       "currency": "USD",
       "name": "NervGen Pharma Corp."
     },
     "VUSA": {
-      "price": 104.3605,
+      "price": 105.2625,
       "currency": "GBP",
       "name": "VANGUARD FUNDS PLC VANGUARD S&P"
     },
     "VWCE": {
-      "price": 163.4,
+      "price": 164.62,
       "currency": "EUR",
       "name": "Vanguard FTSE All-World U.ETF R"
     },
     "VUAA": {
-      "price": 139.1,
+      "price": 140.56,
       "currency": "USD",
       "name": "VANGUARD FUNDS PLC VANGUARD S&P"
     },
     "EXIO": {
-      "price": 8.282,
+      "price": 8.27,
       "currency": "EUR",
       "name": "iShares EURO STOXX Select Divid"
     },
@@ -147,54 +137,49 @@
       "name": "Fidelity US Quality Income ETFR"
     },
     "DG": {
-      "price": 112.1,
+      "price": 112.2,
       "currency": "EUR",
       "name": "VINCI"
     },
     "ACS": {
-      "price": 86.75,
+      "price": 87.3,
       "currency": "EUR",
       "name": "ACS,ACTIVIDADES DE CONSTRUCCION"
     },
     "FORTUM": {
-      "price": 22.34,
+      "price": 22.41,
       "currency": "EUR",
       "name": "Fortum Corporation"
     },
     "OVH": {
-      "price": 13.73,
+      "price": 13.75,
       "currency": "EUR",
       "name": "OVH"
     },
     "AV": {
-      "price": 739.6,
+      "price": 740.8,
       "currency": "GBp",
       "name": "AVIVA PLC ORD 32 17/19P"
     },
     "BATS": {
-      "price": 4341.0,
+      "price": 4349.0,
       "currency": "GBp",
       "name": "BRITISH AMERICAN TOBACCO PLC OR"
     },
     "LGEN": {
-      "price": 294.4,
+      "price": 295.0,
       "currency": "GBp",
       "name": "LEGAL & GENERAL GROUP PLC ORD 2"
     },
     "TW.": {
-      "price": 73.822,
+      "price": 73.98,
       "currency": "GBp",
       "name": "TAYLOR WIMPEY PLC ORD 1P"
     },
     "DGE": {
-      "price": 1858.5,
+      "price": 1861.5,
       "currency": "GBp",
       "name": "DIAGEO PLC ORD 28 101/108P"
-    },
-    "LLOY": {
-      "price": 96.275,
-      "currency": "GBp",
-      "name": "LLOYDS BANKING GROUP PLC ORD 10"
     },
     "AVCN": {
       "price": 0.085,
@@ -202,17 +187,17 @@
       "name": "AVICANNA INC"
     },
     "XAU": {
-      "price": 3667.2,
+      "price": 3668.7,
       "currency": "USD",
       "name": "Gold Dec 26"
     },
     "XAG": {
-      "price": 43.535,
+      "price": 43.65,
       "currency": "USD",
       "name": "Silver Dec 26"
     },
     "IES": {
-      "price": 5.772,
+      "price": 5.786,
       "currency": "EUR",
       "name": "INTESA SANPAOLO"
     },
@@ -1123,37 +1108,11 @@
       },
       {
         "date": "2026-04-16",
-        "amount": 15.317
+        "amount": 15.3134
       },
       {
         "date": "2026-10-15",
         "amount": 22.75
-      }
-    ],
-    "LLOY": [
-      {
-        "date": "2024-04-11",
-        "amount": 1.84
-      },
-      {
-        "date": "2024-08-01",
-        "amount": 1.06
-      },
-      {
-        "date": "2025-04-10",
-        "amount": 2.11
-      },
-      {
-        "date": "2025-07-31",
-        "amount": 1.22
-      },
-      {
-        "date": "2026-04-09",
-        "amount": 2.43
-      },
-      {
-        "date": "2026-08-06",
-        "amount": 1.5799999
       }
     ],
     "IES": [
