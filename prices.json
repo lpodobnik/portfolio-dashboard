@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T18:46:48Z",
+  "updated": "2026-11-27T19:02:17Z",
   "prices": {
     "AGNC": {
       "price": 8.36,
@@ -7,7 +7,7 @@
       "name": "AGNC Investment Corp."
     },
     "O": {
-      "price": 60.62,
+      "price": 60.51,
       "currency": "USD",
       "name": "Realty Income Corporation"
     },
@@ -52,7 +52,7 @@
       "name": "Nebius Group N.V."
     },
     "LCTX": {
-      "price": 0.7948,
+      "price": 0.8027,
       "currency": "USD",
       "name": "Lineage Cell Therapeutics, Inc."
     },
@@ -1123,7 +1123,7 @@
       },
       {
         "date": "2026-04-16",
-        "amount": 15.2738
+        "amount": 15.276001
       },
       {
         "date": "2026-10-15",
